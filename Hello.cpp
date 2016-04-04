@@ -4,6 +4,6 @@ using namespace std;
 
 int main () 
 {
-  cout << "The temperature in Fahrenheit is ";
+  cout << "Hello world ";
   return 0;
 }
